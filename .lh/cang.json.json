@@ -1,0 +1,22 @@
+{
+    "sourceFile": "cang.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1676808003298,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1676808026986,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,7 +3,6 @@\n     {\r\n       \"name\": \"沐雨\",\r\n       \"url\": \"https://raw.githubusercontent.com/bzw1204/more/main/muyu.json\"\r\n     }\r\n-\r\n   ]\r\n }\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1676808003298,
+            "name": "Commit-0",
+            "content": "{\r\n  \"urls\": [\r\n    {\r\n      \"name\": \"沐雨\",\r\n      \"url\": \"https://raw.githubusercontent.com/bzw1204/more/main/muyu.json\"\r\n    }\r\n\r\n  ]\r\n}"
+        }
+    ]
+}
