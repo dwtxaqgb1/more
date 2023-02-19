@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "沐雨",
-      "sourceUrl": "http://192.168.3.100:5244/d/source/muyu.json?sign=8VHzTYi4jAQNWsnM93WzsJZRK8Kwn-jZm1pRnvOCzvM=:0"
+      "sourceUrl": "https://raw.githubusercontent.com/bzw1204/more/main/muyu.json"
     },
     {
       "sourceName": "🏆星河💙1仓🏆",
