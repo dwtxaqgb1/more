@@ -60,7 +60,7 @@
       "jar": "http://52bsj.vip:81/api/v3/file/get/71914/ali3.jar?sign=sP2lTaa6VKjycpE0xeIubEEWlYZpO7Ln3rjPq8a4XKQ%3D%3A0;md5;e3b236416ca6f34b41aeca2c83809837"
     },
     {
-      "key": "Upso",
+      "key": "Up搜",
       "name": " ☁️阿里云搜(搜索)",
       "type": "3",
       "api": "csp_Upyunso",
@@ -68,6 +68,16 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "6f53eec9419a4ec4a2964c19fbc6073e"
+    },
+    {
+      "key": "盤搜",
+      "name": "🆎盘搜〔仅搜索〕",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "http://maoyingshi.cc/tvbox/云星日记/jar/token.txt"
     },
     {
       "key": "AList",
@@ -78,6 +88,46 @@
       "filterable": 1,
       "switchable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+    },
+    {
+      "key": "csp_xpath_huya",
+      "name": "🐯虎牙(XPF)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/xpath/虎牙.json"
+    },
+    {
+      "key": "csp_xpath_huyam",
+      "name": "🐻虎牙M",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://9xi4o.tk/sub/xpath/huya.json"
+    },
+    {
+      "key": "csp_xpath_huyag",
+      "name": "🦊虎牙G",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/xpath/huya2.json"
+    },
+    {
+      "key": "csp_biubiu_斗鱼",
+      "name": "🐟斗鱼",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://9xi4o.tk/sub/biubiu/斗鱼.json"
     }
   ],
   "parses": [
@@ -497,7 +547,7 @@
       ]
     }
   ],
-  "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
+  "wallpaper": "http://maoyingshi.cc/api.php",
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
