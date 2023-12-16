@@ -1,5 +1,5 @@
 // 把 Worker 名字改成实际版本
-const WORKER_HOSTNAME = "XXX.YYY.workers.dev"
+const WORKER_HOSTNAME = "proxy.qinyin.eu.org"
 
 let real_hostname = null
 let real_path = null
